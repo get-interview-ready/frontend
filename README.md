@@ -1,4 +1,4 @@
-# Get Interview Ready!
+# backend
+Backend for Get Interview Ready!
 
-
-Powered by <img src="./public/assets/hashnode.png" alt="Hashnode" width="80"> and <img src="./public/assets/planetscale.jpg" alt="Planetscale" width="80">
+Powered by <img src="https://res.cloudinary.com/dqkl3iifo/image/upload/v1659325100/logos/hashnode_egjslc.png" alt="Hashnode" width=70> and <img src="https://res.cloudinary.com/dqkl3iifo/image/upload/v1659325113/logos/planetscale_t18vko.jpg" alt="Planetscale" width=70>
